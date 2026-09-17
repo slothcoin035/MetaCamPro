@@ -1,6 +1,0 @@
-{
-  "name": "Meta Ray-Ban Display Web App",
-  "description": "A fixed 600x600 additive-display HUD web app designed for Meta Ray-Ban Display glasses with arrow-key navigation, Enter activation, and glanceable cards.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
