@@ -1,0 +1,6 @@
+{
+  "name": "Meta Ray-Ban Display Web App",
+  "description": "A fixed 600x600 additive-display HUD web app with real-time web search engine and Meta Wristband EMG gesture navigation for Meta Ray-Ban Display glasses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
